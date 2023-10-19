@@ -21,14 +21,15 @@ public class Procesador {
 
             }
             public String getMarca(){
+                return marca;
 
             }
             public String getModelo(){
-
+                return modelo;
 
             }
             public Double getPrecio(){
-
+                return precio;
             }
 }
 
