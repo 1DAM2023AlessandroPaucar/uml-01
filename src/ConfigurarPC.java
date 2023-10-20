@@ -7,10 +7,11 @@ public class ConfigurarPC {
     private String date;
 
     private Motherboard motherboard;
-    private Procesador procesador;
+    private Processor Processor = null;
     private Usuario usuario;
-
     private ArrayList<MemoriaRam > memoriaRam;
+
+
 
 
     

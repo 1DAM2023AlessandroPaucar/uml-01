@@ -6,11 +6,9 @@ public class Motherboard {
 
         private String manufacturer;
 
-
         public Integer getId(){
             return id;
         }
-
         public String getModel(){
             return model;
         }
@@ -27,7 +25,7 @@ public class Motherboard {
         public void setManufacturer( String manufacturer) {
             this.manufacturer = manufacturer;
         }
+}
 
-    }
 
 
